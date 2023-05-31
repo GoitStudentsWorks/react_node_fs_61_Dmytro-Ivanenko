@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react_node_fs_61_Dmytro-Ivanenko/static/css/main.df1fa7be.css",
-    "main.js": "/react_node_fs_61_Dmytro-Ivanenko/static/js/main.61329f29.js",
+    "main.js": "/react_node_fs_61_Dmytro-Ivanenko/static/js/main.f70787b7.js",
     "static/css/769.d995668e.chunk.css": "/react_node_fs_61_Dmytro-Ivanenko/static/css/769.d995668e.chunk.css",
     "static/js/769.8e4b4548.chunk.js": "/react_node_fs_61_Dmytro-Ivanenko/static/js/769.8e4b4548.chunk.js",
     "static/css/585.2eb44879.chunk.css": "/react_node_fs_61_Dmytro-Ivanenko/static/css/585.2eb44879.chunk.css",
@@ -105,7 +105,7 @@
     "static/media/check.svg": "/react_node_fs_61_Dmytro-Ivanenko/static/media/check.2a64553bc65df77be06926ee8669f056.svg",
     "static/media/plus.svg": "/react_node_fs_61_Dmytro-Ivanenko/static/media/plus.c38c5c6716210f10cb288a5bc889eca6.svg",
     "main.df1fa7be.css.map": "/react_node_fs_61_Dmytro-Ivanenko/static/css/main.df1fa7be.css.map",
-    "main.61329f29.js.map": "/react_node_fs_61_Dmytro-Ivanenko/static/js/main.61329f29.js.map",
+    "main.f70787b7.js.map": "/react_node_fs_61_Dmytro-Ivanenko/static/js/main.f70787b7.js.map",
     "769.d995668e.chunk.css.map": "/react_node_fs_61_Dmytro-Ivanenko/static/css/769.d995668e.chunk.css.map",
     "769.8e4b4548.chunk.js.map": "/react_node_fs_61_Dmytro-Ivanenko/static/js/769.8e4b4548.chunk.js.map",
     "585.2eb44879.chunk.css.map": "/react_node_fs_61_Dmytro-Ivanenko/static/css/585.2eb44879.chunk.css.map",
@@ -133,6 +133,6 @@
   },
   "entrypoints": [
     "static/css/main.df1fa7be.css",
-    "static/js/main.61329f29.js"
+    "static/js/main.f70787b7.js"
   ]
 }
