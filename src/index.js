@@ -34,7 +34,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
         <Provider store={store}>
             <PersistGate loading={null} persistor={persistor}>
                 <ThemeProvider theme={theme}>
-                    <BrowserRouter basename="/react_node_fs_61_Dmytro-Ivanenko-">
+                    <BrowserRouter basename="/react_node_fs_61_Dmytro-Ivanenko">
                         <App />
                     </BrowserRouter>
                 </ThemeProvider>  
